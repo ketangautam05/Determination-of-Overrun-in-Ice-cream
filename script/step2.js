@@ -172,6 +172,8 @@ function beaker1(){
                     beakerdiv.style.left="67%"
                     beakersol.style.height="0%"
                     beakersol.style.bottom="5%"
+                    msol.style.visibility="visible"
+                    msol.style.opacity="100%"
                     msol.style.transitionDuration="4s"
                     msol.style.height="17%"
                     setTimeout(function(){
